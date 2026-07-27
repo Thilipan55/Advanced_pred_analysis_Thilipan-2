@@ -1,6 +1,6 @@
-\# Medical Diagnosis Support using Decision Trees
+# Medical Diagnosis Support using Decision Trees
 
-\## Thilipan - 23MID0272
+## Thilipan - 23MID0272
 
 
 
@@ -8,37 +8,35 @@ A machine learning project that classifies breast tumors as \*\*Malignant\*\* or
 
 
 
-\## Features
+## Features
 
-\- Data Exploration \& EDA
+- Data Exploration \& EDA
 
-\- Decision Tree Classification
+- Decision Tree Classification
 
-\- Pre-Pruned Decision Tree
+- Pre-Pruned Decision Tree
 
-\- 5-Fold Cross Validation
+- 5-Fold Cross Validation
 
-\- Model Evaluation
+- Model Evaluation
 
-\- Feature Importance \& Tree Visualization
-
-
-
-\## Technologies
-
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Scikit-learn
+- Feature Importance \& Tree Visualization
 
 
+
+## Technologies
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
+
+- Scikit-learn
 
 
 
