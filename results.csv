@@ -1,0 +1,4 @@
+Model,CV_Accuracy,CV_Balanced_Accuracy,CV_Precision,CV_Recall,CV_F1,CV_ROC_AUC,CV_PR_AUC,Test_Accuracy,Test_Balanced_Accuracy,Test_Precision,Test_Recall,Test_Specificity,Test_F1,Test_ROC_AUC,Test_PR_AUC,Brier_Score,Depth,Leaves,Nodes
+Dummy,0.626374,0.500000,0.000000,0.000000,0.000000,0.500000,0.373626,,,,,,,,,,,,
+Decision Tree,0.931868,0.927812,0.908384,0.911765,0.908902,0.927812,0.861544,,,,,,,,,8,24,47
+Pruned Decision Tree,0.929670,0.917750,0.940374,0.870588,0.902742,0.949226,0.916769,0.903509,0.883929,0.918919,0.809524,0.958333,0.860759,0.915344,0.878064,0.079229,4,9,17
